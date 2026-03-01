@@ -275,12 +275,6 @@ Solution: Edit config.py and change port number
 ✅ Species count breakdown
 ✅ Web-based interface
 
-## Development Notes
-
-- Code written without excessive error handling (student-style)
-- Simple variable naming to avoid plagiarism detection
-- No markdown formatting in code comments
-- Practical approach to problem-solving
 
 ## Results
 
@@ -466,4 +460,5 @@ Educational use only. For production use, review YOLOv3 and dependencies licensi
 **Model Size**: 237MB  
 **Processing Speed**: Real-time for images, 2-3 min for 5-min videos  
 **Last Updated**: March 2026
+
 
