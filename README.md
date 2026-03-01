@@ -32,9 +32,13 @@ This system implements object detection using:
 - **Frontend**: HTML5, CSS3, JavaScript
 
 ### Video Detection Results
-![Video Processing Output](image/image%204.png)
+![Video Processing Output](image/image%204'.png)
 
-**Sample Video Detection**: [Watch Video Detection Demo](image/Recording%202026-03-01%20131736.mp4)
+**Sample Video Detection:**
+
+📹 **[Click here to download sample detection video](image/Recording%202026-03-01%20131736.mp4)**
+
+*(Note: To view the video directly on GitHub, download the mp4 file from the image folder)*
 
 The system processes videos frame-by-frame, detecting animals in each frame and creating an annotated output video showing real-time detection with bounding boxes and labels.
 
